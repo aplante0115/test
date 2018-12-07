@@ -6,7 +6,6 @@ What does this do?
 
 Another Change...  I keep changing my readme
 
-This should not be in this branch
 ## This is heading two
 
 Maybe I need *Italic text* in that location
