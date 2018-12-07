@@ -5,7 +5,6 @@ It has some test
 What does this do?
 
 Another Change...  I keep changing my readme
-<<<<<<< HEAD
 
 ## This is heading two
 
@@ -20,5 +19,3 @@ Some other text here.  Making one last change
   * Item 2c
 * Item 3
 * Item 4
-=======
->>>>>>> UpdateScriptFile
