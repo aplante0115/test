@@ -18,3 +18,4 @@ Some other text here.  Making one last change
   * Item 2b
   * Item 2c
 * Item 3
+* Item 4
